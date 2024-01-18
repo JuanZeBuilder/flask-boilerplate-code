@@ -1,0 +1,11 @@
+Flask==2.3.3
+flask_cors==4.0.0
+flask_sqlalchemy==3.1.1
+numpy==1.26.0
+pandas==2.1.1
+pymysql==1.1.0
+python-dotenv==1.0.0
+Requests==2.31.0
+rich==13.5.3
+SQLAlchemy==2.0.21
+mysql-connector-python==8.1.0
